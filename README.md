@@ -1,1 +1,1 @@
-# Randon Algorithm task
+# Random Algorithm task
